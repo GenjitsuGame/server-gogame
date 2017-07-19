@@ -19,7 +19,6 @@ public:
     void edit(const enumIntersection &value);
 
 private:
-
     enumIntersection intersection;
 };
 
